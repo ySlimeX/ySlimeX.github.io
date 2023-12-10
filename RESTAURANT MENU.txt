@@ -1,0 +1,30 @@
+<div class="menu" style="text-shadow: -1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white, 1px -1px 0 white; background-image: url(https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/pancakes_with_berries_54226_16x9.jpg); background-repeat: no-repeat; background-position: center; padding: 20px; margin: 10px; border: 1px solid #ddd;">
+  <h2>Breakfast Menu</h2>
+  <ul>
+    <li>Eggs Benedict with Smoked Salmon - $12</li>
+    <li>Fluffy Pancakes with Fresh Berries and Whipped Cream - $8</li>
+    <li>Breakfast Burrito with Sausage, Eggs, and Cheese - $10</li>
+    <li>Oatmeal with Toppings - $5</li>
+    <li>Yogurt Parfait with Granola and Fruit - $6</li>
+  </ul>
+</div>
+<div class="menu" style="text-shadow: -1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white, 1px -1px 0 white; background-image: url(https://buenazo.cronosmedia.glr.pe/original/2021/05/24/60ac32a1b8ecfe147c041613.jpg); background-repeat: no-repeat; background-position: center; padding: 20px; margin: 10px; border: 1px solid #ddd;">
+  <h2>Lunch Menu</h2>
+  <ul>
+    <li>Grilled Chicken Sandwich with Fries - $15</li>
+    <li>Beef and Veggie Stir-Fry - $14</li>
+    <li>Tuna Salad Sandwich on Whole Wheat Bread - $12</li>
+    <li>Black Bean Burger with Avocado - $13</li>
+    <li>Mediterranean Salad with Chicken - $14</li>
+  </ul>
+</div>
+<div class="menu" style="text-shadow: -1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white, 1px -1px 0 white; background-image: url(https://richanddelish.com/wp-content/uploads/2023/02/creamy-pesto-pasta-9-of-15.jpg); background-repeat: no-repeat; background-position: center; padding: 20px; margin: 10px; border: 1px solid #ddd;">
+  <h2>Dinner Menu</h2>
+  <ul>
+    <li>Seared Scallops with Risotto - $28</li>
+    <li>Filet Mignon with Roasted Vegetables - $32</li>
+    <li>Penne Pasta with Pesto and Shrimp - $20</li>
+    <li>Salmon with Lemon and Dill Sauce - $26</li>
+    <li>Roasted Chicken with Garlic and Herbs - $24</li>
+  </ul>
+</div>
